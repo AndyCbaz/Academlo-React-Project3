@@ -27,3 +27,5 @@ En windows powershell
 ```powershell
 Remove-item .git
 ```
+
+Saludos a todos
